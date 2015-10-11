@@ -1,11 +1,11 @@
 ### Site info:
-title: Freshman21
+title: Geekepub
 tagline: Another Jekyll theme, Freshman twenty-first
 author: Lijia Yu
 email: yu@lijiayu.net
 description: "Freshman21 is a Jekyll blog theme." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
 keywords: "Jekyll, theme, Freshman21"
-url: "http://yulijia.net/freshman21" # the base hostname & protocol for your site
+# url: "http://yulijia.net/freshman21" # the base hostname & protocol for your site
 locale: en_US
 
 ### Personal info and site tools info:
