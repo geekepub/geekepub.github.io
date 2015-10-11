@@ -7,6 +7,7 @@ description: "分享" # You can edit this line in _config.yml. It will appear in
 keywords: "Jekyll, theme"
 # url: "http://yulijia.net/freshman21" # the base hostname & protocol for your site
 locale: en_US
+timezone: "Asia/Shanghai"
 
 ### Personal info and site tools info:
 twitter_username: geekepub
