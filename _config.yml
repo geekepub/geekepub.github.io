@@ -10,8 +10,8 @@ locale: en_US
 timezone: "Asia/Shanghai"
 
 ### Personal info and site tools info:
-twitter_username: geekepub
-github_username:  geekepub
+douban_username: 36502585
+github_username: geekepub
 disqus_shortname: geekepub
 favicon:     "/images/favicon.ico"
 aboutme: Hi, this is geekepub.  # these are shown on aboutme-sidebar.
