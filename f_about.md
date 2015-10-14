@@ -5,10 +5,14 @@ comments: yes
 permalink: /about/
 ---
 
-### IT出版编辑
+#### 职业
 
-### 联系我
+IT出版编辑
+
+#### 联系我
 
 博客：www.geekepub.com
 
-{豆瓣，微博，知乎}@geekepub
+{豆瓣，微博，知乎} @ geekepub
+
+![微信](http://7xnix3.com1.z0.glb.clouddn.com/wechat.jpg)
