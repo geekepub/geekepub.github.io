@@ -1,8 +1,14 @@
 ---
 layout: page
-title: About
+title: 关于我
 comments: yes
 permalink: /about/
 ---
 
-我是谁。
+### IT出版编辑
+
+### 联系我
+
+博客：www.geekepub.com
+
+{豆瓣，微博，知乎}@geekepub
