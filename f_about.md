@@ -16,3 +16,5 @@ IT出版编辑
 {豆瓣，微博，知乎} @ geekepub
 
 ![微信](http://7xnix3.com1.z0.glb.clouddn.com/wechat.jpg)
+
+<img title="微信" src="http://7xnix3.com1.z0.glb.clouddn.com/wechat.jpg" />
