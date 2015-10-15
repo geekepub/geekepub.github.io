@@ -7,7 +7,7 @@ permalink: /about/
 
 #### 关于职业
 
-IT图书出版编辑，供职于[机械工业出版社·华章分社](http://www/hzbook/com)。
+IT图书出版编辑，供职于[机械工业出版社·华章分社](http://www.hzbook.com)。
 
 #### 联系方式
 
