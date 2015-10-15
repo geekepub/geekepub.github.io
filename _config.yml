@@ -55,13 +55,15 @@ locales:
 ### your Blogroll info, only name can shown on the page.
 
 Blogroll:
-      - name: Freshman
-        href: http://yulijia.net/freshman
-        title: Another Jekyll blog theme
-      - name: author's website
-        href: http://yulijia.net/
-        title: Lijia Yu's website
-
+      - name: 阮一峰
+        href: http://www.ruanyifeng.com/blog/
+        title: 阮一峰的网络日志
+      - name: 阳志平
+        href: http://www.yangzhiping.com
+        title: 阳志平的网志
+      - name: 刘未鹏
+        href: http://mindhacks.cn
+        title: 刘未鹏 | MIND HACKS
 
 ### Build settings
 markdown: kramdown
