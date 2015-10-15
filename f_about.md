@@ -11,10 +11,10 @@ IT出版编辑
 
 #### 联系我
 
+E-mail：geekepub@163.com
+
 博客：www.geekepub.com
 
 {豆瓣，微博，知乎} @ geekepub
 
 ![微信](http://7xnix3.com1.z0.glb.clouddn.com/wechat.jpg)
-
-<img title="微信" src="http://7xnix3.com1.z0.glb.clouddn.com/wechat.jpg" />
