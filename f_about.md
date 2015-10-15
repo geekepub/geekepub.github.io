@@ -5,16 +5,16 @@ comments: yes
 permalink: /about/
 ---
 
-#### 职业
+#### 关于职业
 
-IT出版编辑
+IT图书出版编辑，供职于[机械工业出版社·华章分社](http://www/hzbook/com)。
 
-#### 联系我
+#### 联系方式
 
 E-mail：geekepub@163.com
 
 博客：www.geekepub.com
 
-{豆瓣，微博，知乎} @ geekepub
+{[豆瓣](http://www.douban.com/people/36502585/)，[微博](http://weibo.com/geekepub)，[知乎](zhihu.com/people/geekepub)} @ geekepub
 
 ![微信](http://7xnix3.com1.z0.glb.clouddn.com/wechat.jpg)
