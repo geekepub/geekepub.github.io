@@ -13,7 +13,7 @@ timezone: "Asia/Shanghai"
 douban_username: 36502585
 github_username: geekepub
 disqus_shortname: geekepub
-favicon:     "/images/favicon.ico"
+favicon: http://7xnix3.com1.z0.glb.clouddn.com/icon.jpg
 aboutme: Hi, this is geekepub.  # these are shown on aboutme-sidebar.
 aboutme_photo: http://7xnix3.com1.z0.glb.clouddn.com/aboutme.jpg
 google_analytics_key: UA-57979084-1 # put YOUR key here to enable tracking! (blank to disable)
