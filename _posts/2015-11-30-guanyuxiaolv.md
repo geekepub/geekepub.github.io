@@ -1,4 +1,10 @@
 ---
+layout: post
+title: 关于高效
+comments: true
+tags:
+- 效率
+---
 
 ## 高效利用时间
 
