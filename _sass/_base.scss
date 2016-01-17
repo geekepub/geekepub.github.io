@@ -1,6 +1,4 @@
-/**
- * Reset some basic elements
- */
+/*** Reset some basic elements*/
 body, h1, h2, h3, h4,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
@@ -9,10 +7,7 @@ dl, dd, ol, ul, figure {
 }
 
 
-
-/**
- * Basic styling
- */
+/* Basic styling */
 body {
   font-family: $base-font-family;
   font-size: $base-font-size;
@@ -24,11 +19,8 @@ body {
 }
 
 
-
-/**
- * Set `margin-bottom` to maintain vertical rhythm
- */
-h1, h2, h3, h4, 
+/* Set `margin-bottom` to maintain vertical rhythm */
+h1, h2, h3, h4,
 p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
@@ -36,13 +28,7 @@ ul, ol, dl, figure,
 }
 
 
-
-
-
-/**
- * Set main page style
- */
-
+/* Set main page style */
 .container {
   min-height:100%;
   max-width: -webkit-calc(#{$page-width} - (#{$spacing-unit} * 2));
@@ -75,30 +61,24 @@ ul, ol, dl, figure,
 @media screen and (min-width : $on-palm) {
   .col-sm-8 {
     float:left;
-    width:65%;
+    width:70%;
   }
 
   .col-sm-2 {
     float:right;
-    width:25%;
+    width:20%;
   }
 }
 
 
-
-/**
- * Images
- */
+/* Images */
 img {
   max-width: 100%;
   vertical-align: middle;
 }
 
 
-
-/**
- * Figures
- */
+/**Figures*/
 figure > img {
   display: block;
 }
@@ -108,10 +88,7 @@ figcaption {
 }
 
 
-
-/**
- * Lists
- */
+/* Lists */
 ul, ol {
   margin-left: $spacing-unit;
 }
@@ -124,19 +101,13 @@ li {
 }
 
 
-
-/**
- * Headings
- */
+/* Headings */
 h1, h2, h3, h4, h5, h6 {
   font-weight: 300;
 }
 
 
-
-/**
- * Links
- */
+/* Links */
 a {
   color: $brand-top-color;
   text-decoration: none;
@@ -153,24 +124,21 @@ a {
 
 
 .post-content a{
-  color: $brand-color;    
-  text-decoration: none;  
+  color: $brand-color;
+  text-decoration: none;
   border-bottom: 1px dotted;
-  &:visited {             
+  &:visited {
     color: darken($brand-color, 25%);
-  }                       
+  }
 
-  &:hover {               
+  &:hover {
     color: $hover-color;
     text-decoration: none;
-  }  
+  }
 
 }
 
-/**
- * Blockquotes
- */
-
+/* Blockquotes */
 blockquote{
   padding: 0 1em;
   margin: 14px 0;
@@ -190,10 +158,7 @@ blockquote{
 }
 
 
-
-/**
- * Code formatting
- */
+/* Code formatting */
 pre,code {
   font-size: 15px;
   border-radius: 3px;
@@ -207,7 +172,7 @@ code {
 
 pre {
   padding: 8px 12px;
-  overflow: auto; 
+  overflow: auto;
 
   > code {
     border: 0;
@@ -217,10 +182,7 @@ pre {
 }
 
 
-
-/**
- * Wrapper
- */
+/* Wrapper */
 .wrapper {
   max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
   max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
@@ -239,10 +201,7 @@ pre {
 }
 
 
-
-/**
- * Clearfix
- */
+/* Clearfix */
 %clearfix {
 
   &:after {
@@ -254,9 +213,7 @@ pre {
 
 
 
-/**
- * Icons
- */
+/* Icons */
 .icon {
 
   > svg {
@@ -272,15 +229,10 @@ pre {
 }
 
 
-
-/**
- * Table
- */
-
-
-table { 
+/* Table */
+table {
   padding: 0;
-  border-collapse: collapse; 
+  border-collapse: collapse;
   font-size: $small-font-size;
 }
 table tr {
@@ -305,17 +257,14 @@ table tr th :first-child, table tr td :first-child { margin-top: 0; }
 table tr th :last-child, table tr td :last-child { margin-bottom: 0; }
 
 
-/**
- * line between each post on main page
- */
-
+/** line between each post on main page*/
 hr{
   margin-bottom: 30px;
   border: 0;
   border-bottom: 1px dotted #ccc;
 }
 
-cite{ 
+cite{
   font-style: italic;
   text-decoration: underline;
 }
