@@ -2,7 +2,7 @@
 title: Geekepub
 tagline: 一个出版人的博客
 author: geekepub
-email: geekepub@163.com
+email: geekepub@gmail.com
 description: "分享" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
 keywords: "Jekyll, theme"
 locale: en_US
@@ -15,7 +15,7 @@ disqus_shortname: geekepub
 favicon: http://7xnix3.com1.z0.glb.clouddn.com/icon.jpg
 aboutme: Hi, this is geekepub.  # these are shown on aboutme-sidebar.
 aboutme_photo: http://7xnix3.com1.z0.glb.clouddn.com/aboutme.jpg
-google_analytics_key: UA-57979084-1 # put YOUR key here to enable tracking! (blank to disable)
+google_analytics_key: UA-72529972-1 # put YOUR key here to enable tracking! (blank to disable)
 
 ### Site setting:
 ShowContactInfo: "True" # Personal Info (twitter,github,email) can be seen on aboutme-sidebar, those info only shown where ShowContactInfo == True
@@ -40,19 +40,19 @@ locales:
     cn:
       Aboutme: "关于我"
       Archives: "存档"
-      Blogroll: "博客推荐"        
-      Categories: "分类目录"    
+      Blogroll: "博客推荐"
+      Categories: "分类目录"
       Copyright_Notice: "版权声明"
       Recent_Posts: "近期文章"
-      Tags: "标签" 
+      Tags: "标签"
       Previous: "Older"
       Next: "Newer"
-      PostedInCategories: "分类:"   
+      PostedInCategories: "分类:"
       Taggedwith: "| 标签:"
       PostDate: "| 发表时间: "
       Google_search: "站内搜索"
-### your Blogroll info, only name can shown on the page.
 
+### your Blogroll info, only name can shown on the page.
 Blogroll:
       - name: 阮一峰
         href: http://www.ruanyifeng.com/blog/
