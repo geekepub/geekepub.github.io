@@ -6,7 +6,9 @@ permalink: /guestbook/
 ---
 ## 你好，欢迎留下您的足迹。
 
-> To follow the path, look to the master, 
+> To follow the path, 
+>
+>look to the master, 
 >
 > follow the master, 
 >
