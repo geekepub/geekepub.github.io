@@ -17,4 +17,3 @@ E-mail：geekepub@gmail.com
 
 {[豆瓣](http://www.douban.com/people/36502585/)，[微博](http://weibo.com/geekepub)，[知乎](zhihu.com/people/geekepub)} @ geekepub
 
-![微信](http://7xnix3.com1.z0.glb.clouddn.com/wechat.jpg)
