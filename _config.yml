@@ -1,6 +1,6 @@
 ### Site info:
 title: Geekepub
-tagline: 一个出版人的博客
+tagline: 一个人的博客
 author: geekepub
 email: geekepub@gmail.com
 description: "分享" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
@@ -70,5 +70,5 @@ Blogroll:
 ### Build settings
 markdown: kramdown
 highlighter: pygments
-paginate: 5
+paginate: 1
 excerpt_separator: <!-- more -->
