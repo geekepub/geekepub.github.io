@@ -1,6 +1,6 @@
 /* Site header */
 .site-header {
-  //Positioning context for the mobile navigation icon
+//Positioning context for the mobile navigation icon
   position: relative;
 }
 
@@ -31,7 +31,7 @@
 }
 
 .site-nav {
-  /*float: right;*/
+/* float: right;*/
   line-height: 56px;
   border-top: 1px solid $grey-color-light;
   border-bottom: 1px solid $grey-color-light;
@@ -43,7 +43,7 @@
     color: $grey-color;
     line-height: $base-line-height;
 
-    // Gaps between nav items, but not on the first one
+  // Gaps between nav items, but not on the first one
 
     margin-left: 10px;
     margin-right: 10px;
@@ -104,7 +104,7 @@
 
 /* Sidebar */
 .sidebar-module {
-  padding: 15px;
+  padding: 10px;
   margin: 0 -15px 15px;
   font-size: 14px;
   h4{
@@ -120,17 +120,15 @@
 
 
 /* Site footer */
-
 .site-footer {
   clear: both;
   text-align: center;
-  background-color: #f9f9f9;
+  background-color: #fff;
   border-top: 1px solid $grey-color-light;
   margin: $spacing-unit 0;
   padding: $spacing-unit 0;
   font-size: 14px;
 }
-
 
 
 /* Page content */
@@ -150,26 +148,21 @@
 
 .post-link {
   display: block;
-  font-size: 38px;//42px;
+  font-size: 38px;
 }
 
 
-
-/**
- * Posts
- */
+/* Posts */
 .post-header {
   margin-bottom: $spacing-unit;
   time{
     margin-left: 0px;
     font-style: normal;
-
   }
-
 }
 
 .post-title {
-  font-size: 38px;//42px;
+  font-size: 38px;
   letter-spacing: -1px;
   line-height: 1;
 
@@ -179,21 +172,20 @@
 }
 
 
-
 #markdown-toc{
   float: right;
-  width:50%;
+  width:30%;
   background:#f4f7f8;
   padding:20px 15px;
   li{
-    padding-top:10px;
+    padding-top:5px;
     position:relative;
     list-style-type:none;
   }
 }
 
 #markdown-toc:before{
-  content:"Table of Contents";
+  content:"目录";
   font-weight: 700;
   padding-left:10px;
   border-bottom:5px solid $grey-color-light !important;
@@ -204,7 +196,7 @@
 
 .post-content {
   p { padding:$spacing-unit/5 0; }
-  //  margin-bottom: $spacing-unit;
+//  margin-bottom: $spacing-unit;
   h1 {
     font-size: 38px;
     line-height:2em;
@@ -269,18 +261,13 @@
 
 
 /*time style of tages and categories*/
-
 time{
-  margin-left: 15px;
-  font-style: italic;
+  margin-left: 50px;
+  font-style: normal;
 }
 
 
-
-/**
- * Aboutme photo Style
- */
-
+/* Aboutme photo Style */
 .about{
   img {
     height: 128px;
