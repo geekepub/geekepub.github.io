@@ -7,11 +7,13 @@ tags:
 - 德鲁克
 - 自我管理
 ---
+
+* 目录
 {:toc}
 
-作者：彼得·德鲁克|文
+> 作者：彼得·德鲁克
 
-节选自《21 世纪的管理挑战（Management Challenges for the 21st Century）》
+> 节选自《21 世纪的管理挑战（Management Challenges for the 21st Century）》
 
 我们生活的这个时代充满着前所未有的机会：如果你有雄心，又不乏智慧，那么不管你从何处起步，你都可以沿着自己所选择的道路登上事业的顶峰。
 
