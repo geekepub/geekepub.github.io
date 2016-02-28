@@ -1,8 +1,8 @@
 ---
-layout: posts
+layout: post
 title: 简单的生活
 categories: 读书笔记
-comments： true
+comments：true
 tags: 
 - 生活
 ---
