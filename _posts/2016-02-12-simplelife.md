@@ -3,7 +3,7 @@ layout: post
 title: 简单的生活
 categories: 读书笔记
 comments：true
-tags: 
+tags:
 - 生活
 ---
 
