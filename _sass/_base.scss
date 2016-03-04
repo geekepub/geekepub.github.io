@@ -141,15 +141,16 @@ a {
 blockquote{
   padding: 0 1em;
   margin: 14px 0;
-  border: 2px dashed #d0dfda;
+  border: 2px solid #d0dfda;
   border-radius: 5px;
   color: $grey-color;
-  font-size: 18px;
+  font-style: italic;
+  font-size: 14px;
   background: #f9f9f9;
 
-  &:hover {
-    color: #454545;
-  }
+  // &:hover {
+  //   color: #454545;
+  // }
 
   > :last-child {
     margin-bottom: 0;
