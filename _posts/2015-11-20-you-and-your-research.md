@@ -1,17 +1,14 @@
 ---
 layout: post
-title: You and Your Research
+title: 你和你的研究
 comments: true
+categories: 读书笔记
 tags:
 - Richard Hamming
+- 科学研究
 ---
 
-Transcription of the Bell Communications Research Colloquium Seminar 
-7 March 1986
-
-At a seminar in the Bell Communications Research Colloquia Series, Dr. Richard W. Hamming, a Professor at the Naval Postgraduate School in Monterey, California and a retired Bell Labs scientist, gave a very interesting and stimulating talk, 'You and Your Research' to an overflow audience of some 200 Bellcore staff members and visitors at the Morris Research and Engineering Center on March 7, 1986. This talk centered on Hamming's observations and research on the question "Why do so few scientists make significant contributions and so many are forgotten in the long run?" From his more than forty years of experience, thirty of which were at Bell Laboratories, he has made a number of direct observations, asked very pointed questions of scientists about what, how, and why they did things, studied the lives of great scientists and great contributions, and has done introspection and studied theories of creativity. The talk is about what he has learned in terms of the properties of the individual scientists, their abilities, traits, working habits, attitudes, and philosophy.
-
-<!-- more -->
+在“贝尔通信研究座谈会系列”的一次研讨会上，美国海军研究生院（蒙特利）的教授、贝尔实验室退休科学家Richard W. Hamming博士发表了一场有趣而激动人心的演讲：“你和你的研究”，这样演讲发生在1986年3月7号莫里斯工程研究中心，现场挤满了200个观众，他们大多是贝尔通信研究中心的员工和访问者。这场演讲聚焦于Hamming对“为什么只有少数科学家做出重大贡献，而大多数科学家最终被遗忘”这一问题的观察和研究上。根据他四十多年的经验（其中三十年在贝尔实验室），他做了大量的直接观察，询问伟大的科学家和杰出贡献者重要的问题：他们做什么事、如何做以及为什么做，研究他们的生活，反省、研究创造性理论。从科学家的个人特性、他们的能力、性格、工作习惯、态度和哲学中，他学到了很多东西，这场演讲就是关于这些内容的分享。
 
 In order to make the information in the talk more widely available, the tape recording that was made of that talk was carefully transcribed. This transcription includes the discussions which followed in the question and answer period. As with any talk, the transcribed version suffers from translation as all the inflections of voice and the gestures of the speaker are lost; one must listen to the tape recording to recapture that part of the presentation. While the recording of Richard Hamming's talk was completely intelligible, that of some of the questioner's remarks were not. Where the tape recording was not intelligible I have added in parentheses my impression of the questioner's remarks. Where there was a question and I could identify the questioner, I have checked with each to ensure the accuracy of my interpretation of their remarks.
 
