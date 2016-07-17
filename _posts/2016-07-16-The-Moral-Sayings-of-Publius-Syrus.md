@@ -143,146 +143,105 @@ tags:
 
 60. Art avails nothing, when chance determines the issue.
 
-61.  Keep a sharp watch where you would not lose.
+61. Keep a sharp watch where you would not lose.
 
-62. y Excessive severity misses its own aim.
+62. Excessive severity misses its own aim.
 
-63. Audacity augments courage hesitation, fear.
+63. Audacity augments courage; hesitation, fear.
 
 64. If you can not become a harper, become a piper.
 
 65. When Gold argues the cause, eloquence is impotent.
 
-^ . ^.
+66. Woman loves or hates: she knows no middle course.
 
-Woman loves or hates : she knows no middle course.
+67. Concert of action renders slight aid efficient.
 
-67.
-Concert of action renders slight aid efficient.
+68. What greater evil could you wish a miser, than long life ?
 
-68.
-What greater evil could you wish a miser, than long life ?
+69. You can easily get the better of Avarice, if you are not avaricious yourself.
 
-69.
-You can easily get the better of Avarice, if you are not avari-
-cious yourself.
+70. Money does not sate Avarice, but stimulates it.
 
-70.
-J lAonej does not sate Avarice, bub stimulates it.
+71. No amount of gain satisfies Avarice.
 
+72. The \[rich] miser suffers more from a loss than a \[poor] sage.
 
+73. Avarice is the source of its own sorrows.
 
-18 THE gATINQS Of PUBLIU8 6YBUS.
+74. The avaricious man's best deed is his death.
 
-71.
+75. Greediness ill-becomes any one; least of all, an old man.
 
-No amount of gain satisfies Ayarioe.
+76. A well-planned project often turns out ill.
 
-72.
-The \[rich] miser suffers more from a loss than a \[poor] sage.
+77. He sleeps well; who knows not that he deeps ill.
 
-.73.
-Avarice is the source of its own sorrows.
+78. It is well to yield up a pleasure; when a pain goes with it.
 
-74.
-The avaricious man's best deed is his death.
+79. The guilty man deserves to lose the money with which he would bribe the judge.
 
-75.
-Greediness ill-becomes any one ; least of all; an old man.
+80. Happy he who died when death was desirable.
 
-76.
-A well-planned project often turns out ill.
+81. A good reputation is a second patrimony.
+	好名声是第二遗产。
 
-77.
-He sleeps well; who knows not that he deeps ilL
+82. We make the nearest approaches to the gods in our good deeds.
+	做善事让我们更加接近上帝。
 
-78.
-It is well to yield up a pleasure; when a pain goes with it.
+83. No one but a knave or a fool thinks a good deed thrown away.
 
-79.
-The guilty man deserves to lose the money with which he would
-bribe the judge.
+84. The more benefits bestowed; the more received.
 
-80.
-Happy he who died when death was desirable.
+85. Never forget a favor received; be quick to forget a favor bestowed.
+	牢记他人的恩赐，忘记给予的恩惠。
 
-81.
-A good reputation is a second patrimony.
+86. Gratitude is a spur for your benefactors.
 
-82.
-We make the nearest approaches to the gods in our good deeds.
+87. To receive a favor is to pawn your freedom.
 
-83.
-No one but a knave or a fool thinks a good deed thrown away.
+88. He who can not give, should not receive.
 
-84.
-The more benefits bestowed; the more received.
+89. To give to the deserving, is to lay all men under obligation.
 
-85.
-Never forget a &vor received ; be quick to forget a favor bestowed.
+90. A gift in season is a double favor to the needy.
 
+91. He who boasts of a favor bestowed, would like it back again.
 
+92. Sympathy in benevolence is the closest of all kinships.
 
-THS 8AYINQS OF PUBLIUS STBU8. 19
-
-86.
-
-Gratitude is a spur for your benefaotcmu
-
-87.
-To receive a £Eivor is to pawn your freedom.
-
-88.
-He who can not givC; should not receive.
-
-89.
-To give to the deserving^ is to lay all men under obligation.
-
-90.
-A gift in season is a double &vor to the needy.
-
-91.
-He who boasts of a favor bestowed^ would like it back agun.
-
-92.
-Sympathy in benevolence is the closest of all kinships.
-
-93.
-A true benevolence knows the reason of its gifts.
+93. A true benevolence knows the reason of its gifts.
 
 94. To die by another's command is to endure two deaths.
 
-95.
-A favor granted before it is asked; is doubly acceptable.
+95. A favor granted before it is asked; is doubly acceptable.
 
-96.
-Past happiness augments present wretchedness.
+96. Past happiness augments present wretchedness.
 
 97. He dies twice who perishes by his own hand.
 
 98. Aid rendered the wrong-doer, makes you the greater sinner.
 
-99. Conquest over one's self; in the hour of victory, is a double
-triumph.
+99. Conquest over one's self; in the hour of victory, is a double triumph.
 
-100. Multiply your acts of kindness^ and you teach the recipient to
-return them.
+100. Multiply your acts of kindness, and you teach the recipient to return them.
 
-101.  Yenus yields to oaresses, not to compulsion.
+101.  Venus yields to caresses, not to compulsion.
 
-102. •«. Mercy shown \[to the wretched] may become a bulwark of defense.
+102. Mercy shown \[to the wretched] may become a bulwark of defense.
 
 103.  Happy is the voyage that brings the good together.
 
-104. A good repntatioU; even in darkness, keeps on shining.
+104. A good reputation; even in darkness, keeps on shining.
 
-105. A death that ends the \[incnrable] ills of life, is a blessing.
+105. A death that ends the \[incurable] ills of life, is a blessing.
 
 106. Money is worth something when good sense disburses it.
 
 107. One man's happy hour is another's bitter time of trial.
 
 108. A good reputation is more valuable than money.
+	好名声比钱重要。
 
 109. We must master our good fortune, or it will master us.
 
@@ -294,167 +253,102 @@ return them.
 
 113.  To spare the guilty is to injure the innocent.
 
-114. The more skillfully the language of goodness is assumed^ the greater the depravity.
+114. The more skillfully the language of goodness is assumed, the greater the depravity.
 
 115. A good man's severity is next neighbor to justice.
-116. 
- 116. 
-A mean man's generosity is a generous man's meanness.
 
-117.
-A good man Iotos to sit at a good man's table.
+ 116. A mean man's generosity is a generous man's meanness.
 
-118.
-In the {>rcsence of a good man^ anger is speedily cooled.
+117. A good man Ioves to sit at a good man's table.
 
-119.
-It is well to moor your bark with two anchors.
+118. In the presence of a good man, anger is speedily cooled.
 
-120.
-Learn to see in another's calamity the ills which you should avoid.
+119. It is well to moor your bark with two anchors.
 
-121.
-The good which is prevented is not annihilated.
+120. Learn to see in another's calamity the ills which you should avoid.
 
-122.
-The slower to kindle; the more terrible the wrath of a generous
-soul.
+121. The good which is prevented is not annihilated.
 
-123.
-The good man never coquets with iniquity.
+122. The slower to kindle; the more terrible the wrath of a generous soul.
 
-124.
-Life is short; but its ills make it seem long.
+123. The good man never coquets with iniquity.
 
-125.
-The bare recollection of anger kindles anger.
+124. Life is short; but its ills make it seem long.
 
-126.
-There is no sight in the eye^ when the mind does not gaze.
+125. The bare recollection of anger kindles anger.
 
-127.
+126. There is no sight in the eye, when the mind does not gaze.
 
-While teasing for homS; the camel lost his ears.
+127. While teasing for horns; the camel lost his ears.
 
-128.
-He keeps furthest from danger who looks out while he is safe.
+128. He keeps furthest from danger who looks out while he is safe.
 
-129.
-A chaste wife rules her husband by deferring to his wishes.
+129. A chaste wife rules her husband by deferring to his wishes.
 
-130.
-Misfortune sometimes visits him whom she has often passed by.
+130. Misfortune sometimes visits him whom she has often passed by.
 
+131. Trust no man as a friend till you have tried him.
+	未经考验，不要把别人当朋友。
 
+132. Beware of him who has once deceived you.
 
-22 THJB SAYINQS OF PUBMUS SYBU8.
+133. You can never dispense with prudence.
 
-131.
+134. The wounds of conscience always leave a scar.
 
-Trust no man as a friend till you have tried him.
+135. The danger despised is the first to reach us.
 
-132.
-Beware of him who has once deceived you.
+136. Falsities are quick to appear in their true character.
 
-133.
-You can never dispense with prudence.
+137. We are anxious to avoid the faults which we are ashamed to have committed.
 
-134.
-The wounds of conscience always leave a scar.
+138. There is but a step between a proud man's glory and his disgrace.
 
-135.
-The danger despised is the first to reach us.
+139. The joys of the worthless speedily turn to their own destruction.
 
-136.
-Falsities are quick to appear in their true character.
+140. Oblivion is a guaranty against civil war.
 
-137.
-We are anxious to avoid the &ults which we are ashamed to
-have committed.
+141. Make your beloved angry, if you wish him to love you.
 
-138.
-There is but a step between a proud man's glory and his disgrace.
+142. The request of a master is a command.
 
-139.
-The joys of the worthless speedily turn to their own destruction.
+143. An agreeable companion on a journey is as good as a carriage.
 
-140.
-Oblivion is a guaranty against civil war.
+144. Society in shipwreck is a comfort to all.
 
-141.
-Make your beloved angry^ if you wish him to love you.
+145. Congeniality of disposition is the strongest of ties.
 
-142.
-The request of a master is a command.
+146. Consult your conscience, rather than popular opinion.
 
-143.
-An agreeable companion on a journey is as good as a carriage.
+147. Consider what you ought to say, and not what you think.
 
-144.
-Society in shipwreck is a comfort to all
+148. You will gain your point better by moderation than anger.
 
-145.
-Opn^pnialiiy of disposition is the strongest of ties.
+149. Many receive advice; few profit by it.
 
+150. We tolerate without rebuke the vices with which we have grown familiar.
 
+151. Man's most prudent counselor is time.
 
-THE SATINGS OF PUBUUS SYBU8. 28
+152. Wisdom had rather be buffeted than not be listened to.
 
-146.
+153. Folly had rather be unheard than be buffeted.
 
-Consult your oonsdenoe; rather than popular opinion.
+154. It is hard to touch that which brings pain by mere contact.
 
-147,
+155. A god can hardly disturb a man truly happy.
 
-Consider what you ought to say, and not what you think.
+156. Have courage, or cunning, when you deal with an enemy.
 
-148.
-You will gain your point better by moderation than anger.
+157. It is folly to be too frank with impudent familiarity.
 
-149.
-Many receive adrioO; few profit by it.
+158. Let fly many arrows, and no two will hit in the same place.
 
-150.
-We tolerate without rebuke the vices with which we have grown
-familiar.
+159. He who longs for death; confesses that life is a failure.
 
-151.
-r Man's most prudent counselor is time.
-"^ 152.
+160. The sick man's intemperance makes the physician relentless.
 
-Wisdom had rather be buffeted than not be listened to.
-
-153.
-Folly had rather be unheard than be buffeted.
-
-154.
-It is hard to touch that which brings pain by mere contact.
-
-155.
-A god can hardly disturb a man truly happy.
-
-156.
-f Have courage; or cunning; when you deal with an enemy.
-
-157.
-It is folly to be too frank with impudent fiuniliarity.
-
-158.
-Let fly many arrowS; and no two will hit in the same place.
-
-159.
-He who longs for death; confesses that life is a fiulure.
-
-160.
-The sick man's intemperance makes the physician relentless.
-
-
-
-24 THE SAYINGS OF PUBLIUS SYRUS.
-
-161.
-
-^^ Beproaoh in misfortune is an unseasonable cruelty.
+161. Reproaoh in misfortune is an unseasonable cruelty.
 
 162.
 It is barbarity; not courage^ that can slay babes.
@@ -1019,7 +913,7 @@ We die, aa often as we lose a friend.
 
 324. - , ^. . '
 
-Man's life is a loan, not a gift. - ^ >- ^ - . \*.. r \* '-•
+Man's life is a loan, not a gift. - ^ \>- ^ - . \*.. r \* '-•
 
 325.
 Necessity is a law that justifies itself.
@@ -1122,7 +1016,7 @@ We die, as often as we lose a friend.
 
 324. . -. . t^ ^^
 
-Man's Hfe is a loan, not a gift. . - ' '^ U c - ' \*• ' r >'y ^■'^'
+Man's Hfe is a loan, not a gift. . - ' '^ U c - ' \*• ' r \>'y ^■'^'
 
 325.
 Necessity is a law that justifies itself.
@@ -1140,7 +1034,7 @@ Honors are soiled when they invest the unworthy.
 The well-bom should not live base lives.
 
 330.
-It is right to spare the gailty> when you thereby shield the inno-
+It is right to spare the gailty\> when you thereby shield the inno-
 cent.
 
 331.
@@ -1387,7 +1281,7 @@ That mortal needs least; who wishes least.
 Treat your friend as if he might become an enemy.
 
 402.
-Put such confidence in your friend, that he shall find no caus<
+Put such confidence in your friend, that he shall find no caus\<
 become an enemy.
 
 403.
@@ -1773,7 +1667,7 @@ A woman's tear is spite's seasoning.
 515.
 There are many displeased when a woman weds many.
 
-516.- .<- ir ■ ^v >.:,.,. ■■
+516.- .\<- ir ■ ^v \>.:,.,. ■■
 
 A woman's solitary thoughts are her worst ones.
 
@@ -1875,7 +1769,7 @@ SU.
 
 
 
-^1^ i^tmlit AafiiBiti}, *!><» *e uk witit
+^1^ i^tmlit AafiiBiti}, *!\>\<» *e uk witit
 
 
 
@@ -2549,7 +2443,7 @@ yielded.
 We should bear our destiny, not weep over it.
 
 539.
-/ Necessity can turn any weapon to advantage. ^ >Sr / ;/
+/ Necessity can turn any weapon to advantage. ^ \>Sr / ;/
 5
 
 
@@ -3113,7 +3007,7 @@ Gratitude for a favor is sufficient interest therefor.
 i To do wrong for a master is a meritorious act.
 
 698.
-The pain which kills pain, is as good as a medicine. ^^,^>^"
+The pain which kills pain, is as good as a medicine. ^^,^\>^"
 
 
 
@@ -3483,7 +3377,7 @@ It is foolish to hoard; when you know not for whom you do it
 It is the height of folly to blame without knowledge.
 
 801.
-We can lament fi>r that which is lost, but we cannot get it back.
+We can lament fi\>r that which is lost, but we cannot get it back.
 
 802.
 What we admire^ we never cease commending to ounelves.
@@ -3820,7 +3714,7 @@ The probity which is only assumed, is depravity doubly distilled.
 Guilt's assistant is guilt's participant.
 
 894.
-To have the universe bear one company, would be a great <
+To have the universe bear one company, would be a great \<
 Jation 2D death.
 
 
@@ -4011,7 +3905,7 @@ Where the accuser is the judge, power rules ai;id not law.
 When liberty has fallen, no one dares to open his mouth.
 
 947.
-The greater your joys, the greater your occasion fi>r fear.
+The greater your joys, the greater your occasion fi\>r fear.
 
 948.
 When eveiy body is guilty, the prayer for relief will avail little.
