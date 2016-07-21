@@ -73,12 +73,12 @@ tags:
 
 27. If your parent is just, revere him; if not, bear with him.
 
-28. If you cannot bear the faults of a friend, you make them your own \[because you have not the charity to correct them].
+28. If you cannot bear the faults of a friend, you make them your own [because you have not the charity to correct them].
 
 29. Be not blind to a friend's faults, nor hate him for them.
 	朋友的缺点不能视而不见，也不要因此讨厌他们。
 
-30. If you bear the faults of a friend, you make them your own \[that is, you show a disposition to correct them].
+30. If you bear the faults of a friend, you make them your own [that is, you show a disposition to correct them].
 
 31. When you fall short in what is due to yourself, you are lacking towards your friends.
 
@@ -125,7 +125,7 @@ tags:
 
 51. Reason guides, and not the eye, when chaste women select a husband.
 
-52. A \[haughty] spirit in disgrace is a show for the rabble.
+52. A [haughty] spirit in disgrace is a show for the rabble.
 
 53. Human reason grows rich by self, conquest.
 
@@ -165,7 +165,7 @@ tags:
 
 71. No amount of gain satisfies Avarice.
 
-72. The \[rich] miser suffers more from a loss than a \[poor] sage.
+72. The [rich] miser suffers more from a loss than a [poor] sage.
 
 73. Avarice is the source of its own sorrows.
 
@@ -228,13 +228,13 @@ tags:
 
 101.  Venus yields to caresses, not to compulsion.
 
-102. Mercy shown \[to the wretched] may become a bulwark of defense.
+102. Mercy shown [to the wretched] may become a bulwark of defense.
 
 103.  Happy is the voyage that brings the good together.
 
 104. A good reputation; even in darkness, keeps on shining.
 
-105. A death that ends the \[incurable] ills of life, is a blessing.
+105. A death that ends the [incurable] ills of life, is a blessing.
 
 106. Money is worth something when good sense disburses it.
 
@@ -348,261 +348,151 @@ tags:
 
 160. The sick man's intemperance makes the physician relentless.
 
-161. Reproaoh in misfortune is an unseasonable cruelty.
+161. Reproach in misfortune is an unseasonable cruelty.
 
-162.
-It is barbarity; not courage^ that can slay babes.
+162. It is barbarity; not courage, that can slay babes.
 
-163.
-Tears gratify a savage nature^ they do not melt it
+163. Tears gratify a savage nature, they do not melt it.
 
-164.
-Anger blazes forth but once against its object.
+164. Anger blazes forth but once against its object.
 
-165.
-He who has no home^ is a dead man without a sepulcher.
+165. He who has no home, is a dead man without a sepulcher.
 
-166.
-He whom the popular voice approves^ holds the key of the peo-
-ple's treasure.
+166. He whom the popular voice approves, holds the key of the people's treasure.
 
-167.
-He who can get more than belongs to him, is apt to accommo-
-date his desires to his opportunity.
+167. He who can get more than belongs to him, is apt to accommodate his desires to his opportunity.
 
-168.
-To be always giving; is to encourage a forcible taking when you
-refuse to give.
+168. To be always giving; is to encourage a forcible taking when you refuse to give.
 
-169.
-Every man is a master in his own calling.
+169. Every man is a master in his own calling.
 
-170.
-Patience is a remedy for every sorrow.
+170. Patience is a remedy for every sorrow.
 
-171.
-What happens to one man may happen to all. ]
+171. What happens to one man may happen to all.
 
-172.
-When the people detest a man's lifC; they call for his death.
+172. When the people detest a man's life; they call for his death.
 
-173.
-The greatest of comforts is to be free from blame.
+173. The greatest of comforts is to be free from blame.
 
-174.
-There is no safety in r^aining the favor of an enemy.
+174. There is no safety in regaining the favor of an enemy.
 
+175. Anger and inordinate desire are the worst of counselors.
 
+176. To refuse when extreme necessity prays, is to condemn to death.
 
+177. The tongue of the condemned can speak, but cannot avert the doom.
 
-THE 8AYINQS OF PUBUUS BTRUS. 25
+178. The gain acquired at the expense of reputation, should be counted a loss.
 
-175.
+179. There is rarely a loss where plenty is unknown.
 
-Anger and inordinate desire are tlie worst of counselors.
+180. The blessing which could be received, can be taken away.
 
-176.
-To refuse when extreme necessity prays, is to condemn to death.
+181. It is enough to think ill of an enemy, without speaking it.
 
-177.
-The tongue of the condemned can speak, but cannot avert the
-doom.
+182. You can find more friends at the tenth hour, than at the first.
 
-178.
-The gain acquired at the expense of reputation, should be counted
-a loss.
+183. A homely woman is one of the most comely of apes.
 
-179.
-There is rarely a loss where plenty is unknown.
+184. Wisdom is acquired by meditation.
 
-180.
-The blessing which could be received, can be taken away.
+185. While we stop to think, we often miss our opportunity.
 
-181.
-It is enough to think ill of an enemy, without speaking it.
+186. Deliberation should be protracted, when the decision is to be final.
 
-182.
-You can find more friends at the tenth hour, than at the first.
+187. When utility is our aim, a little delay is advisable.
 
-183.
-A homely woman is one of the most comely of apes.
+188. It is madness to put confidence in error.
 
-184.
-Wisdom is acquired by meditation.
+189. When Providence favors; you can make a safe voyage on a twig.
 
-185.
-^ "While we stop to think, we often miss our opportunity.
+190. The gods methinks must laugh when a prosperous man puts up a prayer [for more].
 
-186.
-Deliberation should be protracted, when the decision is to be
-final.
+191. Whatever you can lose, you should reckon of no account.
 
-187.
-When utility is our aim, a little delay is advisable.
+192. It is easy for women to shed tears without salt.
 
-188.
-It is madness to put confidence in error.
-3
+193. One day treats us like a hireling nurse, another, like a mother.
 
+194. Fear lest a day snatch away what a single day has acquired.
 
+195. It is hard to keep that which every one covets.
 
-26 THE 8AYINQS OF PUBLIUS SYBUS.
+196. Turn a deaf ear to calumnious reports.
 
-189.
+197. Yesterday should be the teacher of to-day.
 
-When Providence favorS; you can make a safe voyage on a twig.
+198. Discord gives a relish for concord.
 
-190.
-The gods methinks must laugh when a prosperous man puts up
+199. Reflect on every thing you hear, but believe only on proof.
 
-a prayer \[for more].
+200. Preparations for war should be long in making, that victory may be the more speedy.
 
-191.
-Whatever you can lose, you should reckon of no account.
+201. Divide the fire, and you will the sooner put it out.
 
-192.
-It is easy for women to shed tears without salt.
+202. Mental pain is harder to bear than corporeal.
 
-193.
-One day treats us like a hireling nurse, another, like a mother.
+203. When pain cannot increase, it dies away.
 
-194.
-Fear lest a day snatch away what a single day has acquired.
-195^
-. It is hard to keep that which every one covets.
-'^ 196.
+204. He wbo has prospered in life, should stay at home.
 
-Turn a deaf ear to calumnious reports.
+206. The builder of a house should not leave it unfinished.
 
-197.
-Yesterday should be the teacher of to-day.
+206. The courage of the soldiers depends upon the wisdom of the general.
 
-198. f
+207. Avoid the sweet which is like to become a bitter.
 
-Discord gives a relish for concord.
+208. The rewards of talent and fortune are offered to all.
 
-199.
-Reflect on every thing you hear, but believe only on proof.
+209. Pleasant is the remembrance of the ills that are past.
 
-200.
+210. When life passes agreeably is the best time to die.
 
-Preparations for war should be long in making, that victory may
+211. The more promptly bestowed the greater the kindness.
 
-be the more speedy.
+212. Avoid cupidity, and you conquer a kingdom.
 
-201.
+213. The less a mortal desires, the less he needs.
 
-Divide the fire, and you will the sooner put it out.
+214. How sad his fate, who grows old through anxiety.
 
-202.
-Mental pain is harder to bear than corporeal.
+216. A kindness should be received in the spirit that prompted it.
 
-203.
-When pain cannot increase, it dies away.
+216. There is no need of spurs when the horse is running away.
 
-204.
+217. In place of giving an angry man arms, we should take them away.
 
-He wbo lias prospered in life; should stay at home.
+218. Speed itself is slow when cupidity waits.
 
-206.
-The builder of a house should not leave it unfinished.
+219. For him who loves labor, there is always something to do.
 
-206.
-The courage of the soldiers depends upon the wisdom of the
-general.
+220. It is a kingly spirit that can return good deeds for reproaches.
 
-207.
-Avoid the sweet which is like to become a bitter.
+221. An inglorious life is the next thing to death.
 
-208.
-The rewards of talent and fortune are offered to all.
+222. Solitude is the mother of anxieties.
 
-209.
-Pleasant is the remembrance of the ills that are past.
+223. The party to which the rabble belong is ever the worst.
 
-210.
-When life passes agreeably is the best time to die.
+224. Even calamity becomes virtue's opportunity.
 
-211.
-The more promptly bestowed^ the greater the kindness.
+225. The wretched reflect either too much or too little.
 
-212.
-Avoid cupidity, and you conquer a kingdom.
+226. Patience is affliction's haven.
 
-213.
-The less a mortal desires, the less he needs.
+227. The good to which we have become accustomed; is often an evil.
 
-214.
-How sad his fate, who grows old through anxiety.
+228. Even a single hair casts its shadow.
 
-216.
-A kindness should be received in the spirit that prompted it.
+229. Celerity is tardiness when ardent desire urges.
 
-216.
-There is no need of spurs when the horse is running away.
+230. He who takes counsel of good faith, is just even to an enemy.
 
-217.
+231. We should keep our word even to the undeserving.
 
-In place of giving an angry man arms, we should take them
+232. Pain will force even the truthful to speak falsely.
 
-away. ^
-
-218.
-
-Speed itself is slow when cupidity waits.
-
-
-
-THE SAYINGS OF PUBLIUS ST&US
-219.
-
-For him who loves labor, there is always somethiDg to do.
-
-220.
-It is a kingly spirit that can return good deeds for reproaches.
-
-221.
-An inglorious life is the next thing to death.
-
-222.
-Solitude is the mother of anxieties.
-
-223.
-The party to which the rabble belong is ever the worst.
-
-224.
-Even calamity becomes virtue's opportunity.
-
-225.
-The wretched reflect either too much or too little.
-
-226.
-Patience is affliction's haven. .
-
-227.
-The good to which we have become accustomed; is often an evil.
-
-228. ^
-Even a single hair casts its shadow.
-
-229.
-Celerity is tardiness when ardent desire urges.
-
-230.
-He who takes counsel of good faith, is just even to an enemy.
-
-231.
-We should keep our word even to the undeserving.
-
-232.
-Pain will force even the truthful to speak falsely.
-
-233.
-It is sometimes expedient to forget who we are.
-
-
-
-THE SAYINaS OF PUBUUS SYBUS. 29
+233. It is sometimes expedient to forget who we are.
 
 234.
 We may with advantage at times forget what we know.
@@ -1435,7 +1325,7 @@ Excessive indignation is sometimes evidence of a great crime, i
 It is a bad cause that takes refuge in the lenity of the judge.
 
 446.
-Hard to bear is the poverty which follows \[a bad use of] riches.
+Hard to bear is the poverty which follows [a bad use of] riches.
 
 446.
 It is a bad medicine that exhausts the powers of nature.
@@ -1843,11 +1733,11 @@ A wise man never refuses any thing to necessity.
 Avarice never lacks a reason for refusing a favor.
 
 543.
-We refuse ourselves \[the thing desired], when we ask what can
+We refuse ourselves [the thing desired], when we ask what can
 not be had.
 
 544.
-It is natural not to credit \[the possibility of] great crimes.
+It is natural not to credit [the possibility of] great crimes.
 
 545.
 No one should be judge in his owns cause.
@@ -2120,7 +2010,7 @@ Excessive indignation is sometimes evidence of a great crime, i
 It is a bad cause that takes refuge in the lenity of the judge.
 
 445.
-Hard to bear is the poverty which follows \[a bad use of] riches.
+Hard to bear is the poverty which follows [a bad use of] riches.
 
 446.
 It is a bad medicine that exhausts the powers of nature.
@@ -2461,11 +2351,11 @@ A wise man never refuses any thing to necessity.
 Avarice never lacks a reason for refusing a favor.
 
 643.
-We refuse ourselves \[the thing desired], when we ask what can
+We refuse ourselves [the thing desired], when we ask what can
 not be had.
 
 644.
-It is natural not to credit \[the possibility of] great crimes.
+It is natural not to credit [the possibility of] great crimes.
 
 545.
 No one should be judge in his own« cause.
@@ -2703,13 +2593,13 @@ tage.
 THE SATINQS OF PUBLIUS 8YBUS. 65
 
 610.
-Consider that there is no place without a \[hidden] witness.
+Consider that there is no place without a [hidden] witness.
 
 611
 No wise man has ever put faith in. a traitor.
 
 612.
-Our greatest gains are made by sparing what we possess \[i. e.^
+Our greatest gains are made by sparing what we possess [i. e.^
 by economy].
 
 613.
@@ -3248,7 +3138,7 @@ He who has the power to harm is dreaded when he does not m-
 tend harm.
 
 765.
-He who can transfer his love \[to a new object] can subdue it.
+He who can transfer his love [to a new object] can subdue it.
 
 766.
 It is the height of eloquence to speak in the defense of the in-
@@ -3350,7 +3240,7 @@ Who is a poor man ? He who thinks himself rich.
 Who has the greatest possessions ? He who wants least
 
 794.
-What you blame in others as a ~&ult;~ you should not be guilty
+What you blame in others as a &ult; you should not be guilty
 of yourself.
 
 795.
@@ -3577,7 +3467,7 @@ cost to produce it
 The ejes and ears of the mob are often fiilse witnesses.
 
 858.
-Yon mnst buy a bnshel of salt \[with cash down] before you get
+Yon mnst buy a bnshel of salt [with cash down] before you get
 credit.
 
 854.
@@ -3880,7 +3770,7 @@ It id a diflgraoefol indigence which springs from extrayaganoe.
 It is a difigracefiil loss which is chargeable to ne^igenoe.
 
 939.
-When one man is protected \[by law] all men are safe.
+When one man is protected [by law] all men are safe.
 
 940.
 The highest safety is to fear nought but the Almighty.
@@ -4018,7 +3908,7 @@ THS SATINGS OF PUBUUS STBUS. 81
 
 981.
 
-A life of leisure is a kingdom with less care \[than a kingdom
+A life of leisure is a kingdom with less care [than a kingdom
 requires].
 
 982.
@@ -4168,7 +4058,7 @@ to rule.
 How many causes for repentance do we find during a long life I
 
 1021.
-Mercy to the afflicted is a \[prudent] remembrance of one's self.
+Mercy to the afflicted is a [prudent] remembrance of one's self.
 
 1022.
 We have one opinion of ourselveS; and another of our neighbor.
@@ -4194,7 +4084,7 @@ It is harder to judge between friends than enemies.
 He who subdues his temper vanquishes his greatest enemy.
 
 1028.
-Call yourself happy, and you invite \[the visits of J misfortune.
+Call yourself happy, and you invite [the visits of J misfortune.
 
 1029.
 Fear the envy of your friends more than the snares of your ene-
@@ -4226,7 +4116,7 @@ a kiss.
 
 1037.
 
-Verily he abounds in virtues who \[merely] loves those of others.
+Verily he abounds in virtues who [merely] loves those of others.
 
 1038.
 Count not him among your friends who will retail your privacies
