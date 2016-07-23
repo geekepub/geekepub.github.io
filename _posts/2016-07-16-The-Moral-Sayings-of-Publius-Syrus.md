@@ -257,7 +257,7 @@ tags:
 
 115. A good man's severity is next neighbor to justice.
 
- 116. A mean man's generosity is a generous man's meanness.
+116. A mean man's generosity is a generous man's meanness.
 
 117. A good man Ioves to sit at a good man's table.
 
@@ -434,7 +434,7 @@ tags:
 
 203. When pain cannot increase, it dies away.
 
-204. He wbo has prospered in life, should stay at home.
+204. He who has prospered in life, should stay at home.
 
 206. The builder of a house should not leave it unfinished.
 
@@ -494,148 +494,89 @@ tags:
 
 233. It is sometimes expedient to forget who we are.
 
-234.
-We may with advantage at times forget what we know.
+234. We may with advantage at times forget what we know.
 
-235.
-Those who do injustice, hate it.
+235. Those who do injustice, hate it.
 
-236.
-Even when the wound is healed, the scar remains.
+236. Even when the wound is healed, the scar remains.
 
-237.
-Even when there is no law, there is conscience.
+237. Even when there is no law, there is conscience.
 
-238.
-The tyrant can hardly be said to hold even a doubtful sway.
+238. The tyrant can hardly be said to hold even a doubtful sway.
 
-239.
-Pecuniary gain first suggested to men to make Fortune a god-
+239. Pecuniary gain first suggested to men to make Fortune a goddess.
 
-240.
-The fiercer the contention, the more honorable the reconciliation.
+240. The fiercer the contention, the more honorable the reconciliation.
 
-241.
-The hope of reward is the solace of labor.
+241. The hope of reward is the solace of labor.
 
-242.
-The wise man corrects his own errors by observing those of others.
+242. The wise man corrects his own errors by observing those of others.
 
-243.
-The further the fall, the greater the hurt
+243. The further the fall, the greater the hurt.
 
-244.
-Depravity is revealed in outward action, but its source is within.
+244. Depravity is revealed in outward action, but its source is within.
 
-245.
-The life which we live is but a small part of the real life.
+245. The life which we live is but a small part of the real life.
 
-246.
-A great man may commence life in a hovel.
+246. A great man may commence life in a hovel.
 
-247.
-He sufifers exile who refuses to serve his country.
-3\*
+247. He suffers exile who refuses to serve his country.
 
+248. Men will judge your past deeds by your last.
 
+249. Versatility of mind is a natural bias to folly.
 
-30 THE SATINaS OF PUBLIU8 8TBUS.
+250. It is easier to add to a great reputation than to get it.
 
-248.
-Men will judge your past deeds by your last
+251. Good fortune renders a man agreeable, if the good fortune is not seen.
 
-249.
-Versatility of mind is a natural bias to folly.
+252. By concealing the deed, you render the accusation more serious.
 
-250.
-It is easier to add to a great reputation than to get it.
+253. Calumny is a malevolent lie.
 
-251.
-Good fortune renders a man agreeable^ if the good fortune is
-not seen.
+254. Many consult their reputation; but few their conscience.
 
-252.
-By concealing the deed^ you render the accusation more serious.
+255. The master is a slave when he fears those whom he rules.
 
-253.
-Calumny is a malevolent lie.
+256. He confesses his crime who flees the tribunal.
 
-254.
-Many consult their reputation ; but few their conscience.
+257. Prosperity is the nurse of ill temper.
 
-255.
-The master is a slave when he fears those whom he rules.
+258. A prosperous worthlessness is the curse of high life.
 
-256.
-He confesses his crime who flees the tribunal.
+259. Endure the heavy burdens, and you will the more easily carry the lighter.
 
-257.
-Prosperity is the nurse of ill temper.
+260. Bear without murmuring what cannot be changed.
 
-258.
-A prosperous worthlessness is the curse of high life.
+261. Be patient under your affictions; that you may be able to endure your happiness.
 
-259.
-Endure the heavy burdens, and you will the more easily carry
-the lighter.
+262. You should hammer your iron when it is glowing hot.
 
-260.
-Bear without murmuring what cannot be changed.
+263. No one ever lost honor but him who never had any.
 
-261.
+264. He who has forfeited has honor can lose nothing more.
 
-Be patient under your affictions; that you may be able to en-
-dure your happi]
+265. What is left when honor is lost?
 
-262.
+266. Confidence, like life; never returns to him whom she has once left.
 
-You should hammer your iron when it is glowing hot.
+267. A fair exterior is a silent recommendation.
 
-263.
-No one ever lost honor but him who never had any.
+268. Fortune has no lawful control over men's morals.
 
-264.
--'He who has forfeited hb honor can lose nothing more.
+269. A great property is a great bondage for the owner.
 
-265.
-What is left when honor is lost 1
+270. Fortune often spares men a present affliction, that they may suffer a greater.
 
-266.
-Confidence; like lifC; never returns to him whom she has once
-left.
+271. Fortune makes a fool of him whom she favors too much.
 
-267.
-A fair exterior is a silent recommendation.
+272. Fortune masters us if we do not master her.
 
-268.
-Fortune has no lawful control over men's morals.
+273. Fortune has no more power over our destiny than our own actions.
 
-269.
-A great property is a great bondage for the owner.
+274. Fortune is not satisfied with inflicting one calamity.
 
-270.
-Fortune often spares men a present ajQ^ction, that they may
-suffer a greater.
-
-271.
-Fortune makes a fool of him whom she favors too much.
-
-272.
-Fortune masters us if we do not master her.
-
-273.
-Fortune haa no more power over our destiny than our own
-actions.
-
-274.
-Fortune is not satisfied with inflicting one calamity.
-
-275.
-When Fortune is on our side, popular favor bears her company.
-
-
-
-82 SAYINGS 07 PUBUUS STBUS.
+275. When Fortune is on our side, popular favor bears her company.
 
 276.
 Fortune has more power over a man than his own forethought.
