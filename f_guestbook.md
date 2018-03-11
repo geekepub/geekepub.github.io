@@ -8,7 +8,7 @@ permalink: /guestbook/
 
 > To follow the path, 
 >
->look to the master, 
+> look to the master, 
 >
 > follow the master, 
 >
