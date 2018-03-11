@@ -144,7 +144,7 @@ blockquote{
   border: 2px solid #d0dfda;
   border-radius: 5px;
   color: $grey-color;
-  font-style: italic;
+  font-style: normal;
   font-size: 14px;
   background: #f9f9f9;
 
@@ -210,7 +210,6 @@ pre {
     clear: both;
   }
 }
-
 
 /* Icons */
 .icon {
