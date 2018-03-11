@@ -35,7 +35,7 @@ locales:
       Next: "Newer"
       PostedInCategories: "Posted in"
       Taggedwith: "and tagged"
-      PostDate: "on "
+      PostDate: "on"
       Google_search: "Site Search"
     cn:
       Aboutme: "关于我"
@@ -49,7 +49,8 @@ locales:
       Next: "Newer"
       PostedInCategories: "分类:"
       Taggedwith: "| 标签:"
-      PostDate: "| 发表时间: "
+      PostDate: "| 发表时间:"
+      ModifyDate: "| 最新修改:"
       Google_search: "站内搜索"
 
 ### your Blogroll info, only name can shown on the page.
